@@ -27,7 +27,7 @@
     "oldMfvrNo": "string",
     "placeBuilt": "string",
     "provinceId": "string",
-    "regionId": "string",
+    "regionId": "string",",
     "registeredBreadth": "string",
     "registeredDepth": "string",
     "registeredLength": "string",
@@ -40,7 +40,7 @@
     "tonnageDepth": "string",
     "tonnageLength": "string",
     "typeOfregistration": "string",
-    "updatedB": "string",
+    "updatedBy": "string",
     "updatedDate": "string",
     "vesselType": "string",
     "yearBuilt": "string"
