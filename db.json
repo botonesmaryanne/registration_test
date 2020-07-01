@@ -42,7 +42,7 @@
     "typeOfregistration": "string",
     "updatedBy": "string",
     "updatedDate": "string",
-    "vesselType": "string",
+    "vesselType": "Motorized",
     "yearBuilt": "string"
         }
     ]
