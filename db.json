@@ -37,13 +37,13 @@
     "signatureImage": "string",
     "status": 111,
     "tonnageBreadth": "string",
-    "tonnageDepth": "string",",
+    "tonnageDepth": "string",
     "tonnageLength": "string",
     "typeOfregistration": "string",
     "updatedB": "string",
     "updatedDate": "string",
     "vesselType": "string",
-    "yearBuilt": "string
+    "yearBuilt": "string"
         }
     ]
 }
