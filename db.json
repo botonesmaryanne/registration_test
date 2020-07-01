@@ -15,47 +15,47 @@
         {
          "uuid": "string",
          "boatImg" : "string",
-    createdBy : string;
-    createdDate : string;
-    date : Date;
-    enginemake : string;
-    engineMake2 : string;
-    expirationDate :string;
-    fileName: string;
-    fishingGear: string;
-    fishingGearOthers: string;
-    frsNo: string;
-    grossTonnage: number;
-    homePort: string;
-    horsePower: string;
-    horsePower2: string;
-    imagePath: string;
-    licenseNo: string;
-    materialUsed: string;
-    mfvrNo: string;
-    municipalId: string;
-    nameOfVessel: string;
-    netTonnage: number;
-    oldMfvrNo: string;
-    placeBuilt: string;
-    provinceId: string;
-    regionId: string;
-    registeredBreadth: string;
-    registeredDepth: string;
-    registeredLength: string;
-    remarks: string;
-    serialNumber: string;
-    serialNumber2: string;
-    signatureImage: string;
-    status: number;
-    tonnageBreadth: string;
-    tonnageDepth: string;
-    tonnageLength: string;
-    typeOfregistration: string;
-    updatedBy: string;
-    updatedDate: string;
-    vesselType: string;
-    yearBuilt: string;
+    "createdBy" : "string
+    "createdDate" : "string",
+    "date" : "Date",
+    "enginemake" : "string",
+    "engineMake2 :" string",
+    "expirationDate" :string",
+    "fileName": string",
+    "fishingGear": string",
+    "fishingGearOthers": string",
+    "frsNo: "string",
+    grossTonnage: number",
+    homePort: string",
+    horsePower: string",
+    horsePower2: string",
+    imagePath: string",
+    licenseNo: string",
+    materialUsed: string",
+    mfvrNo: string",
+    municipalId: string",
+    nameOfVessel: string",
+    netTonnage: number",
+    oldMfvrNo: string",
+    placeBuilt: string",
+    provinceId: string",
+    regionId: string",
+    registeredBreadth: string",
+    registeredDepth: string",
+    registeredLength: string",
+    remarks: string",
+    serialNumber: string",
+    serialNumber2: string",
+    signatureImage: string",
+    status: number",
+    tonnageBreadth: string",
+    tonnageDepth: string",",
+    tonnageLength: string",
+    typeOfregistration: string",
+    updatedBy: string",
+    updatedDate: string",
+    vesselType: string",
+    yearBuilt: string
         }
     ]
 }
