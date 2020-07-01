@@ -39,7 +39,7 @@
     "tonnageBreadth": "string",
     "tonnageDepth": "string",
     "tonnageLength": "string",
-    "typeOfregistration": "string",
+    "typeOfRegistration": "Intital Registration",
     "updatedBy": "string",
     "updatedDate": "string",
     "vesselType": "Motorized",
