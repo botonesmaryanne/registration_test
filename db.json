@@ -1,6 +1,6 @@
 {
     "posts" :[
-        {
+        { "id" : 0,
          "uuid": "string",
          "boatImg" : "string",
     "createdBy" : "string",
