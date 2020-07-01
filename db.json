@@ -19,7 +19,7 @@
     "horsePower2": "string",
     "imagePath": "string",
     "licenseNo": "string",
-    "materialUsed": "string",
+    "materialUsed": "Composite",
     "mfvrNo": "string",
     "municipalId": "string",
     "nameOfVessel": "string",
